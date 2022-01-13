@@ -4,7 +4,7 @@ django-crispy-forms==1.9.0
 django-like-button==0.0.7
 numpy==1.18.2
 pandas==1.0.3
-Pillow==7.1.1
+Pillow==9.0.0
 python-dateutil==3.8.2
 pytz==2019.3
 scipy==1.4.1
